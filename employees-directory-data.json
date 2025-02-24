@@ -1,0 +1,149 @@
+{
+    "management": {
+        "title": "🏢 Management Department",
+        "employees": [
+            {
+                "name": "Ruzon Sir",
+                "position": "Chairman",
+                "contacts": ["+8801885956370", "+8801670645601"]
+            },
+            {
+                "name": "Arif Sir",
+                "position": "Chief Technology Officer",
+                "contacts": ["+8801677755536"]
+            },
+            {
+                "name": "Sayed Sir",
+                "position": "CEO",
+                "contacts": ["+8801234567890"]
+            },
+            {
+                "name": "Faruk Sir",
+                "position": "Manager",
+                "contacts": ["+8801234567890"]
+            },
+            {
+                "name": "Monir Sir",
+                "position": "Assistant Manager",
+                "contacts": ["+8801234567890"]
+            },
+            {
+                "name": "Masud Sir",
+                "position": "Support Engineer",
+                "contacts": ["+8801234567890"]
+            },
+            {
+                "name": "Raju Sir",
+                "position": "Customer Relationship Manager",
+                "contacts": ["+8801234567890"]
+            }
+        ]
+    },
+    "callCenter": {
+        "title": "📞 Call Center",
+        "employees": [
+            {
+                "name": "Nayeem",
+                "position": "Support Engineer",
+                "contacts": ["+8801234567890"]
+            },
+            {
+                "name": "Anik Sir",
+                "position": "Support Engineer",
+                "contacts": ["+8801234567890"]
+            }
+        ]
+    },
+    "billing": {
+        "title": "💰 Billing Department",
+        "employees": [
+            {
+                "name": "Bijoy Sir",
+                "position": "Billing Executive",
+                "contacts": ["+8801234567890"]
+            },
+            {
+                "name": "Saud Sir",
+                "position": "Assistant Billing Executive",
+                "contacts": ["+8801234567890"]
+            }
+        ]
+    },
+    "technicalTeams": {
+        "server2": {
+            "title": "🔧 Technical Team (Server 2)",
+            "employees": [
+                {
+                    "name": "Sagor Sir",
+                    "position": "Senior Fiber Technician",
+                    "contacts": ["+8801234567890"]
+                },
+                {
+                    "name": "Sabbir",
+                    "position": "Senior Fiber Technician",
+                    "contacts": ["+8801234567890"]
+                }
+            ]
+        },
+        "server1": {
+            "title": "🔧 Technical Team (Server 1)",
+            "employees": [
+                {
+                    "name": "Sakib Sir",
+                    "position": "Senior Fiber Technician",
+                    "contacts": ["+8801234567890"]
+                },
+                {
+                    "name": "Raja",
+                    "position": "Senior Fiber Technician",
+                    "contacts": ["+8801234567890"]
+                }
+            ]
+        },
+        "server1DTR": {
+            "title": "🔧 Technical Team (Server 1 & DTR)",
+            "employees": [
+                {
+                    "name": "Shakil",
+                    "position": "Senior Fiber Technician",
+                    "contacts": ["+8801234567890"]
+                },
+                {
+                    "name": "Piyash",
+                    "position": "Senior Fiber Technician",
+                    "contacts": ["+8801234567890"]
+                }
+            ]
+        },
+        "rajgongChoyani": {
+            "title": "🔧 Technical Team (Rajgong & Choyani)",
+            "employees": [
+                {
+                    "name": "Hamid Sir",
+                    "position": "Senior Fiber Technician",
+                    "contacts": ["+8801234567890"]
+                },
+                {
+                    "name": "Kader Sir",
+                    "position": "Senior Fiber Technician",
+                    "contacts": ["+8801234567890"]
+                },
+                {
+                    "name": "Rana Sir",
+                    "position": "Senior Fiber Technician",
+                    "contacts": ["+8801234567890"]
+                }
+            ]
+        },
+        "kabirhat": {
+            "title": "🔧 Technical Team (Kabirhat)",
+            "employees": [
+                {
+                    "name": "Arman Sir",
+                    "position": "Fiber Technician",
+                    "contacts": ["+8801234567890"]
+                }
+            ]
+        }
+    }
+}
