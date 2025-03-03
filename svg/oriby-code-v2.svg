@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+    <!-- বেকগ্রাউন্ড -->
+    <rect x="0" y="0" width="512" height="512" fill="#111"/>
+
+    <!-- টেক্সট গ্রুপ -->
+    <g transform="translate(256, 256)">
+        <!-- মেইন টেক্সট -->
+        <text text-anchor="middle" 
+              y="-20"
+              fill="#fff"
+              font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+              font-size="40"
+              font-weight="600"
+              letter-spacing="4">
+            ORIBY CODE
+        </text>
+        
+        <!-- HR লাইন -->
+        <line x1="-100" y1="0" x2="100" y2="0" 
+              stroke="#fff" 
+              stroke-width="1"/>
+        
+        <!-- সাব টেক্সট -->
+        <text text-anchor="middle"
+              y="30"
+              fill="#999"
+              font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+              font-size="20"
+              font-weight="400">
+            Developed by Sultan
+        </text>
+    </g>
+</svg>
+
