@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+    <!-- Simple Clean Background -->
+    <rect x="0" y="0" width="512" height="512" fill="#000000"/>
+    
+    <!-- Main Content -->
+    <g transform="translate(256, 256)">
+        <!-- Simple Brand -->
+        <text text-anchor="middle" 
+              y="-20"
+              fill="#FFFFFF"
+              font-family="monospace"
+              font-size="80"
+              style="text-transform: uppercase;">
+            ORIBY
+        </text>
+        
+        <!-- Simple Code Element -->
+        <text text-anchor="middle" 
+              y="50"
+              fill="#4A90E2"
+              font-family="monospace"
+              font-size="40">
+            &lt;CODE/&gt;
+        </text>
+        
+        <!-- Simple Credit -->
+        <text text-anchor="middle"
+              y="100"
+              fill="#666666"
+              font-family="monospace"
+              font-size="20">
+            SULTAN
+        </text>
+    </g>
+</svg>
