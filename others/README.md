@@ -1,5 +1,6 @@
 # Footer
 
+<hr>
 <div id="footer-container"></div>
 
 <script>
