@@ -1,0 +1,55 @@
+{
+    "sections": [
+        {
+            "title": "Management",
+            "contacts": [
+                {"name": "Sayed sir", "role": "Senior Manager", "phone": "+880 1711-XXXXXX"},
+                {"name": "Arif sir", "role": "Manager", "phone": "+880 1712-XXXXXX"}
+            ]
+        },
+        {
+            "title": "Billing Executive",
+            "contacts": [
+                {"name": "Bijoy Sir", "role": "Senior Executive", "phone": "+880 1713-XXXXXX"},
+                {"name": "Saud sir", "role": "Executive", "phone": "+880 1714-XXXXXX"}
+            ]
+        },
+        {
+            "title": "Support Executive",
+            "contacts": [
+                {"name": "Nayeem sir", "role": "Senior Support", "phone": "+880 1715-XXXXXX"},
+                {"name": "Johir", "role": "Support", "phone": "+880 1716-XXXXXX"}
+            ]
+        },
+        {
+            "title": "Others Team",
+            "contacts": [
+                {"name": "Riaz vai", "role": "Store In-Charge", "phone": "+880 1717-XXXXXX"},
+                {"name": "Firoz vai", "role": "Office Assistant", "phone": "+880 1718-XXXXXX"},
+                {"name": "Rubel vai", "role": "Security In-Charge", "phone": "+880 1725-XXXXXX"},
+                {"name": "Sohel vai", "role": "Office Support", "phone": "+880 1726-XXXXXX"},
+                {"name": "Kamal vai", "role": "Logistics Support", "phone": "+880 1727-XXXXXX"},
+                {"name": "Rahim vai", "role": "Maintenance", "phone": "+880 1728-XXXXXX"}
+            ]
+        },
+        {
+            "title": "Physical Support",
+            "zones": [
+                {
+                    "name": "Zone 1",
+                    "contacts": [
+                        {"name": "Sagor sir", "role": "Supervisor", "phone": "+880 1719-XXXXXX"},
+                        {"name": "Belal sir", "role": "Technical", "phone": "+880 1720-XXXXXX"}
+                    ]
+                },
+                {
+                    "name": "Zone 2", 
+                    "contacts": [
+                        {"name": "Shakil sir", "role": "Supervisor", "phone": "+880 1721-XXXXXX"},
+                        {"name": "Piyash sir", "role": "Technical", "phone": "+880 1722-XXXXXX"}
+                    ]
+                }
+            ]
+        }
+    ]
+}
