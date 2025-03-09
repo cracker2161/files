@@ -3,33 +3,99 @@
         {
             "title": "Management",
             "contacts": [
-                {"name": "Sayed sir", "role": "Senior Manager", "phone": "+880 1711-XXXXXX"},
-                {"name": "Arif sir", "role": "Manager", "phone": "+880 1712-XXXXXX"}
+                {
+                    "name": "Sayed sir", 
+                    "role": "Senior Manager", 
+                    "phones": [
+                        "+880 1711-XXXXXX",
+                        "+880 1911-XXXXXX"
+                    ]
+                },
+                {
+                    "name": "Arif sir", 
+                    "role": "Manager", 
+                    "phones": [
+                        "+880 1712-XXXXXX"
+                    ]
+                }
             ]
         },
         {
             "title": "Billing Executive",
             "contacts": [
-                {"name": "Bijoy Sir", "role": "Senior Executive", "phone": "+880 1713-XXXXXX"},
-                {"name": "Saud sir", "role": "Executive", "phone": "+880 1714-XXXXXX"}
+                {
+                    "name": "Bijoy Sir", 
+                    "role": "Senior Executive", 
+                    "phones": [
+                        "+880 1713-XXXXXX",
+                        "+880 1913-XXXXXX"
+                    ]
+                },
+                {
+                    "name": "Saud sir", 
+                    "role": "Executive", 
+                    "phones": [
+                        "+880 1714-XXXXXX"
+                    ]
+                }
             ]
         },
         {
             "title": "Support Executive",
             "contacts": [
-                {"name": "Nayeem sir", "role": "Senior Support", "phone": "+880 1715-XXXXXX"},
-                {"name": "Johir", "role": "Support", "phone": "+880 1716-XXXXXX"}
+                {
+                    "name": "Nayeem sir", 
+                    "role": "Senior Support", 
+                    "phones": [
+                        "+880 1715-XXXXXX"
+                    ]
+                },
+                {
+                    "name": "Johir", 
+                    "role": "Support", 
+                    "phones": [
+                        "+880 1716-XXXXXX",
+                        "+880 1916-XXXXXX"
+                    ]
+                }
             ]
         },
         {
             "title": "Others Team",
             "contacts": [
-                {"name": "Riaz vai", "role": "Store In-Charge", "phone": "+880 1717-XXXXXX"},
-                {"name": "Firoz vai", "role": "Office Assistant", "phone": "+880 1718-XXXXXX"},
-                {"name": "Rubel vai", "role": "Security In-Charge", "phone": "+880 1725-XXXXXX"},
-                {"name": "Sohel vai", "role": "Office Support", "phone": "+880 1726-XXXXXX"},
-                {"name": "Kamal vai", "role": "Logistics Support", "phone": "+880 1727-XXXXXX"},
-                {"name": "Rahim vai", "role": "Maintenance", "phone": "+880 1728-XXXXXX"}
+                {
+                    "name": "Riaz vai", 
+                    "role": "Store In-Charge", 
+                    "phones": ["+880 1717-XXXXXX"]
+                },
+                {
+                    "name": "Firoz vai", 
+                    "role": "Office Assistant", 
+                    "phones": ["+880 1718-XXXXXX"]
+                },
+                {
+                    "name": "Rubel vai", 
+                    "role": "Security In-Charge", 
+                    "phones": ["+880 1725-XXXXXX"]
+                },
+                {
+                    "name": "Sohel vai", 
+                    "role": "Office Support", 
+                    "phones": [
+                        "+880 1726-XXXXXX",
+                        "+880 1926-XXXXXX"
+                    ]
+                },
+                {
+                    "name": "Kamal vai", 
+                    "role": "Logistics Support", 
+                    "phones": ["+880 1727-XXXXXX"]
+                },
+                {
+                    "name": "Rahim vai", 
+                    "role": "Maintenance", 
+                    "phones": ["+880 1728-XXXXXX"]
+                }
             ]
         },
         {
@@ -38,15 +104,34 @@
                 {
                     "name": "Zone 1",
                     "contacts": [
-                        {"name": "Sagor sir", "role": "Supervisor", "phone": "+880 1719-XXXXXX"},
-                        {"name": "Belal sir", "role": "Technical", "phone": "+880 1720-XXXXXX"}
+                        {
+                            "name": "Sagor sir", 
+                            "role": "Supervisor", 
+                            "phones": ["+880 1719-XXXXXX"]
+                        },
+                        {
+                            "name": "Belal sir", 
+                            "role": "Technical", 
+                            "phones": [
+                                "+880 1720-XXXXXX",
+                                "+880 1920-XXXXXX"
+                            ]
+                        }
                     ]
                 },
                 {
-                    "name": "Zone 2", 
+                    "name": "Zone 2",
                     "contacts": [
-                        {"name": "Shakil sir", "role": "Supervisor", "phone": "+880 1721-XXXXXX"},
-                        {"name": "Piyash sir", "role": "Technical", "phone": "+880 1722-XXXXXX"}
+                        {
+                            "name": "Shakil sir", 
+                            "role": "Supervisor", 
+                            "phones": ["+880 1721-XXXXXX"]
+                        },
+                        {
+                            "name": "Piyash sir", 
+                            "role": "Technical", 
+                            "phones": ["+880 1722-XXXXXX"]
+                        }
                     ]
                 }
             ]
