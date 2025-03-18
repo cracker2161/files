@@ -1,0 +1,111 @@
+{
+  "bookmarks": [
+    {
+      "id": "13",
+      "title": "ChatGPT",
+      "url": "https://chat.openai.com",
+      "icon": "https://chat.openai.com/favicon.ico",
+      "category": "productivity",
+      "createdAt": "2025-03-18T06:23:43.515Z"
+    },
+    {
+      "id": "14",
+      "title": "Netflix",
+      "url": "https://netflix.com",
+      "icon": "https://netflix.com/favicon.ico",
+      "category": "entertainment",
+      "createdAt": "2025-03-18T06:23:43.515Z"
+    },
+    {
+      "id": "15",
+      "title": "Amazon",
+      "url": "https://amazon.com",
+      "icon": "https://amazon.com/favicon.ico",
+      "category": "shopping",
+      "createdAt": "2025-03-18T06:23:43.515Z"
+    },
+    {
+      "id": "16",
+      "title": "LinkedIn",
+      "url": "https://linkedin.com",
+      "icon": "https://linkedin.com/favicon.ico",
+      "category": "social",
+      "createdAt": "2025-03-18T06:23:43.515Z"
+    },
+    {
+      "id": "17",
+      "title": "Spotify",
+      "url": "https://spotify.com",
+      "icon": "https://spotify.com/favicon.ico",
+      "category": "entertainment",
+      "createdAt": "2025-03-18T06:23:43.515Z"
+    },
+    {
+      "id": "18",
+      "title": "Notion",
+      "url": "https://notion.so",
+      "icon": "https://notion.so/favicon.ico",
+      "category": "productivity",
+      "createdAt": "2025-03-18T06:23:43.515Z"
+    },
+    {
+      "id": "19",
+      "title": "Canva",
+      "url": "https://canva.com",
+      "icon": "https://canva.com/favicon.ico",
+      "category": "productivity",
+      "createdAt": "2025-03-18T06:23:43.515Z"
+    },
+    {
+      "id": "20",
+      "title": "GitHub",
+      "url": "https://github.com",
+      "icon": "https://github.com/favicon.ico",
+      "category": "productivity",
+      "createdAt": "2025-03-18T06:23:43.515Z"
+    },
+    {
+      "title": "GitHub",
+      "url": "https://github.com/",
+      "icon": "https://www.google.com/s2/favicons?domain=github.com&sz=64",
+      "id": "74259af8-842e-4c45-87d1-01d2b65bc06e",
+      "createdAt": "2025-03-18T06:39:12.071Z"
+    },
+    {
+      "title": "Facebook",
+      "url": "https://facebook.com",
+      "icon": "https://www.google.com/s2/favicons?domain=facebook.com&sz=64",
+      "id": "2355f6f0-02f0-4df6-98cc-69f8517fa170",
+      "createdAt": "2025-03-18T06:39:57.793Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "search",
+      "createdAt": "2025-03-18T06:23:43.515Z"
+    },
+    {
+      "id": "2",
+      "name": "social",
+      "createdAt": "2025-03-18T06:23:43.515Z"
+    },
+    {
+      "id": "3",
+      "name": "productivity",
+      "createdAt": "2025-03-18T06:23:43.515Z"
+    },
+    {
+      "id": "4",
+      "name": "entertainment",
+      "createdAt": "2025-03-18T06:23:43.515Z"
+    },
+    {
+      "id": "5",
+      "name": "shopping",
+      "createdAt": "2025-03-18T06:23:43.515Z"
+    }
+  ],
+  "version": "1.0",
+  "exportDate": "2025-03-18T06:41:46.022Z"
+}
