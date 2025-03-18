@@ -1,0 +1,124 @@
+{
+  "bookmarks": [
+    {
+      "id": "1",
+      "title": "Google",
+      "url": "https://google.com",
+      "icon": "https://www.google.com/favicon.ico",
+      "category": "search",
+      "createdAt": "2025-03-18T06:43:18.134Z"
+    },
+    {
+      "id": "2",
+      "title": "YouTube",
+      "url": "https://youtube.com",
+      "icon": "https://www.youtube.com/favicon.ico",
+      "category": "social",
+      "createdAt": "2025-03-18T06:43:18.134Z"
+    },
+    {
+      "id": "3",
+      "title": "Facebook",
+      "url": "https://facebook.com",
+      "icon": "https://www.facebook.com/favicon.ico",
+      "category": "social",
+      "createdAt": "2025-03-18T06:43:18.134Z"
+    },
+    {
+      "id": "4",
+      "title": "Instagram",
+      "url": "https://instagram.com",
+      "icon": "https://www.instagram.com/favicon.ico",
+      "category": "social",
+      "createdAt": "2025-03-18T06:43:18.134Z"
+    },
+    {
+      "id": "5",
+      "title": "TikTok",
+      "url": "https://tiktok.com",
+      "icon": "https://www.tiktok.com/favicon.ico",
+      "category": "social",
+      "createdAt": "2025-03-18T06:43:18.134Z"
+    },
+    {
+      "id": "6",
+      "title": "Gmail",
+      "url": "https://gmail.com",
+      "icon": "https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico",
+      "category": "productivity",
+      "createdAt": "2025-03-18T06:43:18.134Z"
+    },
+    {
+      "id": "7",
+      "title": "MEGA",
+      "url": "https://mega.io",
+      "icon": "https://mega.io/favicon.ico",
+      "category": "productivity",
+      "createdAt": "2025-03-18T06:43:18.134Z"
+    },
+    {
+      "id": "8",
+      "title": "IPTV",
+      "url": "https://example.com/iptv",
+      "icon": "",
+      "category": "entertainment",
+      "createdAt": "2025-03-18T06:43:18.134Z"
+    },
+    {
+      "id": "9",
+      "title": "Tools",
+      "url": "https://example.com/tools",
+      "icon": "",
+      "category": "productivity",
+      "createdAt": "2025-03-18T06:43:18.134Z"
+    },
+    {
+      "id": "10",
+      "title": "Social Access",
+      "url": "https://example.com/social",
+      "icon": "",
+      "category": "social",
+      "createdAt": "2025-03-18T06:43:18.134Z"
+    },
+    {
+      "id": "11",
+      "title": "Orbit Stream",
+      "url": "https://example.com/orbit",
+      "icon": "",
+      "category": "entertainment",
+      "createdAt": "2025-03-18T06:43:18.134Z"
+    },
+    {
+      "id": "12",
+      "title": "Password Manager",
+      "url": "https://example.com/passwords",
+      "icon": "",
+      "category": "productivity",
+      "createdAt": "2025-03-18T06:43:18.134Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "search",
+      "createdAt": "2025-03-18T06:43:18.134Z"
+    },
+    {
+      "id": "2",
+      "name": "social",
+      "createdAt": "2025-03-18T06:43:18.134Z"
+    },
+    {
+      "id": "3",
+      "name": "productivity",
+      "createdAt": "2025-03-18T06:43:18.134Z"
+    },
+    {
+      "id": "4",
+      "name": "entertainment",
+      "createdAt": "2025-03-18T06:43:18.134Z"
+    }
+  ],
+  "version": "1.0",
+  "exportDate": "2025-03-18T06:43:24.368Z"
+}
