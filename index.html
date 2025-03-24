@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PWA App</title>
+    
+    <!-- PWA Manifest File -->
+    <link rel="manifest" href="manifest.json">
+
+    <style>
+        /* CSS Code */
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 18px;
+            background: #28a745;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background: #218838;
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to My PWA App</h1>
+    <button id="installBtn" hidden>Install App</button>
+
+    <script>
+        // Service Worker Registration
+        if ("serviceWorker" in navigator) {
+            navigator.serviceWorker.register("sw.js")
+            .then(reg => console.log("Service Worker Registered", reg))
+            .catch(err => console.log("Service Worker Registration Failed", err));
+        }
+
+        // PWA Install Prompt
+        let installPrompt;
+        const installBtn = document.getElementById("installBtn");
+
+        window.addEventListener("beforeinstallprompt", (event) => {
+            event.preventDefault();
+            installPrompt = event;
+            installBtn.hidden = false;
+        });
+
+        installBtn.addEventListener("click", () => {
+            installPrompt.prompt();
+            installPrompt.userChoice.then(choice => {
+                if (choice.outcome === "accepted") {
+                    console.log("User accepted the install prompt");
+                }
+                installBtn.hidden = true;
+            });
+        });
+    </script>
+</body>
+</html>
